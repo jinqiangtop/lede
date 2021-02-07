@@ -1,3 +1,13 @@
+##### 修改项：
+1.增加自编译 .config文件
+2.修改默认的网关的dns
+3.打开helloworld注释
+4.基于lede的wiki写一个简陋的编译脚本
+
+
+
+
+
 欢迎来到Lean的Openwrt源码仓库！
 =
 Welcome to Lean's  git source of OpenWrt and packages
