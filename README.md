@@ -9,6 +9,8 @@
 4.基于lede的wiki写一个简陋的编译脚本
 
 
+# 构建方法
+· wget https://github.com/jinqiangtop/lede-custom/edit/master/build.sh  && bash build.sh ·
 
 
 欢迎来到Lean的Openwrt源码仓库！
