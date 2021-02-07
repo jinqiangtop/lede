@@ -10,7 +10,11 @@
 
 
 # 构建方法
-· wget https://github.com/jinqiangtop/lede-custom/edit/master/build.sh  && bash build.sh ·
+
+```
+ wget https://github.com/jinqiangtop/lede-custom/edit/master/build.sh  && bash build.sh 
+```
+
 
 
 欢迎来到Lean的Openwrt源码仓库！
